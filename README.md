@@ -4,11 +4,14 @@ React Portfolio
 Live Link
 https://danielsportfolio.retool.com/embedded/public/3f946f82-5060-4c4a-a7c9-34444b2dd8d1
 
+User Story
 
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
+
 Acceptance Criteria
+
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
 THEN I am presented with a page containing a header, a section for content, and a footer
